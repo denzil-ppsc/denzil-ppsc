@@ -1,9 +1,4 @@
-![Denzil's Github Stats](https://github-readme-stats.vercel.app/api?username=denzil-ppsc&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true,show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 ## 📊 GitHub Stats
-
-<p align="center">
   <!-- Main Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=denzil-ppsc&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
@@ -18,7 +13,6 @@
 </p>
 
 <!-- Contribution Streak -->
-<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=denzil-ppsc&theme=chartreuse-dark&hide_border=false" 
     height="180px"
